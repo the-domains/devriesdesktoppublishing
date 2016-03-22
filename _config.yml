@@ -1,0 +1,28 @@
+name: deVriesDesktopPublishing
+favicon: null
+layout_spectrum: 0.494212492601946
+typography_spectrum: 0.6474062509369105
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7562068849802017
+  lightness: 0.37519146990962327
+  saturation: 0.7594422516413033
+  rhythmicContrast: 0.6248811583500355
+purpose: []
